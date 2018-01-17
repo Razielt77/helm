@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   demochat:
   - apiVersion: v1
-    created: 2018-01-16T22:13:24.043214-08:00
+    created: 2018-01-16T23:18:54.312262-08:00
     description: A Helm chart for Kubernetes
     digest: 8a3b3344908d950f85fd37f055a49f39c335d99530099052761c67129281b429
     icon: https://codefresh.io/wp-content/uploads/2018/01/demochat.png
@@ -11,7 +11,7 @@ entries:
     - https://razielt77.github.com/helm/demochat-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2018-01-16T22:13:24.042655-08:00
+    created: 2018-01-16T23:18:54.311943-08:00
     description: A Helm chart for Kubernetes
     digest: afd7ec835bbc09fdd773a15f101384f6ea9aaa7c830f6ea1a07aeae583cb14b4
     name: demochat
@@ -20,19 +20,21 @@ entries:
     version: 0.1.0
   mongo:
   - apiVersion: v1
-    created: 2018-01-16T22:13:24.043773-08:00
+    created: 2018-01-16T23:18:54.312675-08:00
     description: A mongo helm chart for k8s
-    digest: 081742a2ff1de298201beee3bfc175ce5a53926b02f86736e2fef3a9ed2806cc
+    digest: 6e370098288986a2b87f1e6ad0d66c52660ba56e08972f17af02bba0827a267e
+    icon: https://codefresh.io/wp-content/uploads/2018/01/mongodb-logo.png
     name: mongo
     urls:
     - https://razielt77.github.com/helm/mongo-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2018-01-16T22:13:24.043506-08:00
+    created: 2018-01-16T23:18:54.312465-08:00
     description: A mongo helm chart for k8s
-    digest: f169bdf9426835837d001db2b8d40c0ac87f527be804cdb381c52ac1e3ae46df
+    digest: f99bd7ece4bafd66cfac3a1a1b3cd13a3da6fc51677fccb9c0dcf160f3b2865d
+    icon: https://codefresh.io/wp-content/uploads/2018/01/mongodb-logo.png
     name: mongo
     urls:
     - https://razielt77.github.com/helm/mongo-0.1.0.tgz
     version: 0.1.0
-generated: 2018-01-16T22:13:24.042064-08:00
+generated: 2018-01-16T23:18:54.311421-08:00
